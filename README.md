@@ -11,5 +11,5 @@ brew tap chasefinch/tap
 A formatter for [Bear](https://bear.app) notes.
 
 ```bash
-brew install --HEAD chasefinch/tap/bear-formatter
+brew install chasefinch/tap/bear-formatter
 ```
